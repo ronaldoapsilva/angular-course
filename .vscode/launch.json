@@ -14,7 +14,7 @@
         "${workspaceFolder}/dist/**/*.js"
     ]
       
-    },
+    },  
     {
       "name": "ng test",
       "type": "msedge",
