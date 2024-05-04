@@ -7,14 +7,8 @@
       "type": "msedge",
       "request": "launch",
       "preLaunchTask": "npm: start",
-      "url": "http://localhost:4200/", 
-      "skipFiles": [
-        "${workspaceFolder}/node_modules/**/*.js",
-        "${workspaceFolder}/node_modules/**/*.js",
-        "${workspaceFolder}/dist/**/*.js"
-    ]
-      
-    },  
+      "url": "http://localhost:4200/"
+    },
     {
       "name": "ng test",
       "type": "msedge",
